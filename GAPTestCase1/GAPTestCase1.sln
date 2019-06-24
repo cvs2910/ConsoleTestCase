@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAPTestCase1", "GAPTestCase1\GAPTestCase1.csproj", "{ACA777E7-CE6E-4F58-8D33-708D1DA23D58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACA777E7-CE6E-4F58-8D33-708D1DA23D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA777E7-CE6E-4F58-8D33-708D1DA23D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA777E7-CE6E-4F58-8D33-708D1DA23D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA777E7-CE6E-4F58-8D33-708D1DA23D58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2094E137-F0C0-4B06-914E-240C21987FBD}
+	EndGlobalSection
+EndGlobal
